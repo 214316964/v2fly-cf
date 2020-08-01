@@ -54,7 +54,7 @@ jobs:
           memory: 256M
           disk_quota: 1024M
           routes:
-          - route: aliya.mybluemix.net
+          - route: aliya.exloverfucker.net
           command: ./v2ray
           buildpacks:
           - binary_buildpack
